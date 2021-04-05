@@ -1,0 +1,9 @@
+.Main {
+  width: 100%;
+  border-radius: 6px;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  overflow: hidden;
+}

@@ -1,0 +1,36 @@
+.LedProduct {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 56%;
+  height: 100%;
+}
+.LedProduct h2 {
+  font-size: 16px;
+  line-height: 0px;
+}
+.LedProduct p {
+  font-size: 11px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.productData {
+  line-height: 6px;
+  text-align: center;
+  margin-right: 6%;
+}
+.data-container {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.otherData {
+  line-height: 6px;
+}
+
+.reverse {
+text-align: right;
+}
